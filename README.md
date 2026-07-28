@@ -21,8 +21,7 @@
  <img align="center" alt="Bela-Sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="Bela-mongo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img align="center" alt="Bela-spark" height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
- <img align="center" alt="Bela-hadoop" height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
- <img align="center" alt="Bela-Beam" height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" />                                      <img align="center" alt="Bela-DataBricks" height="60" width="60" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
+ <img align="center" alt="Bela-DataBricks" height="60" width="60" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
  <img align="center" alt="Bela-cloud" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
  <img align="center" alt="Bela-canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  
 </div>
